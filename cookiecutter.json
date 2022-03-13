@@ -2,6 +2,8 @@
   "full_name": "Peter Shaffery",
   "email": "petersh@ffery.net",
   "github_username": "proof-by-accident",
+  "project_name": "My Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "A basic python virtual environment cookiecutter containing my most commonly used packages.",
   "command_line_interface": ["Click", "Argparse", "No command-line interface"],
   "create_author_file": "y",
