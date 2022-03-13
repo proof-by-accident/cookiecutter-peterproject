@@ -2,7 +2,7 @@
   "full_name": "Peter Shaffery",
   "email": "petersh@ffery.net",
   "github_username": "proof-by-accident",
-  "project_short_description": "A basic python virtual environment containing my most commonly used packages.",
+  "project_short_description": "A basic python virtual environment cookiecutter containing my most commonly used packages.",
   "command_line_interface": ["Click", "Argparse", "No command-line interface"],
   "create_author_file": "y",
   "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
